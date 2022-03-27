@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.1;
+pragma solidity 0.8.11;
 
 interface ITW3TDiamond {
     function name() external pure returns (string memory);
